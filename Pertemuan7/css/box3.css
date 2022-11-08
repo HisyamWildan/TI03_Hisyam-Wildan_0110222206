@@ -1,0 +1,54 @@
+.atas {
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.satu {
+    height: 140px;
+    width: 200px;
+    background-color: #f4eb49;
+    border: 2px solid #000;
+}
+
+.dua {
+    width: 83%;
+    background-color: #ff6624;
+    border: 2px solid #000;
+}
+
+.tengah {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5px;
+}
+
+.tiga {
+    height: 400px;
+    width: 200px;
+    background-color: #aedd94;
+    border: 2px solid #000;
+}
+
+.empat {
+    height: 400px;
+    width: 68%;
+    background-color: grey;
+    border: 2px solid #000;
+}
+
+.lima {
+    height: 400px;
+    width: 200px;
+    background-color: #4dd7fa;
+    border: 2px solid #000;
+}
+
+.enam {
+    background-color: blue;
+    height: 100px;
+    width: 99%;
+    border: 2px solid #000;
+    margin: 5px;
+    justify-content: center;
+    display: flex;
+}
